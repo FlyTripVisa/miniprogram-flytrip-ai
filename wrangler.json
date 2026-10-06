@@ -1,6 +1,5 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "// wrangler.json
 "name": "mini",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-10-08",
