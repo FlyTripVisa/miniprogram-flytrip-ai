@@ -1,1 +1,1 @@
-# miniprogram-flytrip-ai
+# mini
